@@ -1,0 +1,12 @@
+1) Scrieti o functie care descompune un numar in factori primi si afiseaza rezultatul, in forma urmatoare: 18 = 2*3^2
+ * 
+ * 2) Scrieti o functie care un numar natural si returneaza alt numar dupa niste criterii...
+ * 
+ *    a) format din cifrele de pe pozitii pare... 1235 -> 13
+ *    b) format doar din cifrele pare... 1234 -> 24
+ *    c) format doar din cifrele mai mare ca un parametru dat... n=5632, parametru=4 ->56
+ * 
+ * 3) Scrieti o functie care primeste 3 numere intregi si returneaza numarul de valori distince (1,2,3) si printeaza, dupa caz:
+ *  a) toate valorile sunt egale/distincte
+ *  b) primul si al doilea/ 2 cu 3 / 1 cu 3 sunt egale
+ *  Incercati sa folositi cat mai putin cod duplicat...folositi functii ajutatoare
